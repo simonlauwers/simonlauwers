@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simonlauwers
 - 📚 I'm in my final year of Applied Computer Science @ Karel de Grote University College
 - 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning Svelte and Django
+- 🌱 I’m currently learning ThreeJS
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/simonlauwers/)
 
 

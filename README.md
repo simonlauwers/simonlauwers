@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simonlauwers
-- 📚 I'm in my final year of Applied Computer Science @ Karel de Grote University College
+- 📚 I'm a graduate of Applied Computer Science @ Karel de Grote University College
 - 👀 I’m interested in Full stack Development
-- 🌱 I’m currently learning ThreeJS
+- 🌱 I’m currently learning more about Azure
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/simonlauwers/)
 
 
